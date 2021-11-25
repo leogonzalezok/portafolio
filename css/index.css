@@ -527,16 +527,16 @@ body{
 }
 .about-img img{
     width: 100%;
-    height:380px;
+    height:auto;
     padding: 30px;
-    border-radius: 0;
+    border-radius: 50%;
 }
 .about-img {
     width: 550px;
     height:auto;
     padding: 30px;
     padding-top: 10px;
-    border-radius: 40px;
+    border-radius: 50%;
 }
 
 #about-content a{
@@ -628,7 +628,7 @@ body{
     z-index: 2;
     position: relative;
     margin: 20px;
-    border-radius: 30%;
+    border-radius: 50%;
     padding: 10px;
     border: 0px solid #c70039;
     background: #c70039;
@@ -1510,16 +1510,16 @@ For devices with smaller width like mobile phone
     }
     .about-img img{
         width: 280px;
-        height:220px;
+        height:auto;
         padding: 5px;
-        border-radius: 10%;
+        border-radius: 50%;
     }
     .about-img {
         width: 100%;
-        height:250px;
+        height:auto;
         text-align: center;
         overflow: hidden;
-        border-radius: 10%;
+        border-radius: 50%;
     }
     .service{
         height:320px;
@@ -1539,7 +1539,7 @@ For devices with smaller width like mobile phone
         z-index: 2;
         position: relative;
         margin: 20px;
-        border-radius: 30%;
+        border-radius: 50%;
         padding: 10px;
         height:80px;
         transition: all .8s ease;
@@ -1964,16 +1964,16 @@ for tabs and large phones
     }
     .about-img img{
         width: 100%;
-        height:380px;
+        height:auto;
         padding: 30px;
-        border-radius: 40px;
+        border-radius: 50%;
     }
     .about-img {
         width: 550px;
         height:auto;
         padding: 30px;
         padding-top: 10px;
-        border-radius: 40px;
+        border-radius: 50%;
     }
     .cv a button{
         border:none;
@@ -2315,14 +2315,14 @@ for tabs and large phones
     }
     .about-img img{
         width: 100%;
-        height:550px;
+        height:auto;
         padding: 30px;
         border-radius: 50%;
         animation: opacity 1.4s ease ;
     }
     .about-img {
         width: 40%;
-        height:550px;
+        height:auto;
         padding: 30px;
         border-radius: 50%;
     }
