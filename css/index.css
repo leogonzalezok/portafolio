@@ -409,6 +409,10 @@ body{
 .contact a{
     z-index: 3;
 }
+#my-form-status{
+    font-family: raleway;
+    font-size: 18px;
+}
 .contact img{
     margin:10px;
     height:30px;
