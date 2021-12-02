@@ -24,6 +24,9 @@
   #about-content a{
       color:#c70039 ;
   }
+  .about-img img{
+    box-shadow: 0px 10px 0px #c70039; 
+  }
   .cv a button{
       background: #c70039;
   }

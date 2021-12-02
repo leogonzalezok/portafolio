@@ -530,6 +530,7 @@ body{
     flex-direction: row;
 }
 .about-img img{
+    box-shadow: 0px 10px 0px #c70039; 
     width: 100%;
     height:auto;
     padding: 30px;
