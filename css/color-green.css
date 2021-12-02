@@ -15,6 +15,9 @@
     border-radius: 4px;
     width: 4px;
   }
+  .spinner{
+    border-left-color: #04A777;
+  }
   #breaker{
       background-color: #04A777;
   }
